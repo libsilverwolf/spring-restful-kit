@@ -1,7 +1,7 @@
 rootProject.name = "spring-restful-polyfill"
 
-include("polyfill-spring3x-webmvc")
-include("polyfill-spring3x-webmvc-example")
+include("restful-kit-spring3x-webmvc")
+include("restful-kit-spring3x-webmvc-example")
 
 dependencyResolutionManagement {
     versionCatalogs {
